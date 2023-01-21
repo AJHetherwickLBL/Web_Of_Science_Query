@@ -26,6 +26,7 @@
 *.txt             text
 *.xml             text
 *.yml             text
+*.xls             text
 
 
 # set content encodings
